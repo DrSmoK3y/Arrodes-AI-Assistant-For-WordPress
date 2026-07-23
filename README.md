@@ -118,6 +118,12 @@ This open-source project is proudly developed and maintained by:
 
 ---
 
+## Contribute
+
+If you have any suggestions or ideas to improve this product, please feel free to share them with us.
+
+---
+
 ## 📄 License
 
 **Arrodes AI Manager** is released under the **GNU General Public License v2.0 (GPLv2)**.  

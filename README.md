@@ -118,7 +118,7 @@ This open-source project is proudly developed and maintained by:
 
 ---
 
-## Contribute
+## 🧐 Contribute
 
 If you have any suggestions or ideas to improve this product, please feel free to share them with us.
 

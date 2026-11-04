@@ -113,7 +113,7 @@ You can operate Arrodes AI Manager with zero software subscription costs:
    - Select free models such as `meta-llama/llama-3.3-70b-instruct:free`.
 3. **GroqCloud Blazing Fast Inference**:
    - Visit [Groq Console](https://console.groq.com/)
-   - Set Provider to **Custom Agent Router** with endpoint `https://api.groq.com/openai/v1` and model `llama-3.3-70b-versatile`.
+   - Set Provider to **Custom Agent Router** with endpoint `https://api.groq.com/openai/v1` and model `openai/gpt-oss-120b`.
    - Set Embedding Provider to **Basic / Offline Mode** (free, zero API calls).
 
 ---
